@@ -13,9 +13,30 @@
 
 <h3 align="left">Connect With Me!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kush-gupta-275b94221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kush-gupta-275b94221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pikapool2402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pikapool2402" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kushh.gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushh.gupta" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/kush-gupta-275b94221" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="kush-gupta-275b94221"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://www.leetcode.com/pikapool2402" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="pikapool2402"
+            height="30"
+            width="40"
+    /></a>
+    <a href="https://www.instagram.com/kushh.gupta/" target="blank"
+        ><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="kushh.gupta"
+            height="30"
+            width="40"
+    /></a>
 </p>
 
 <h3 align="left">Languages & Tools!</h3>
@@ -166,10 +187,21 @@
     </a>
 </p>
 
-<p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact" alt="pikapool2402" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en" alt="pikapool2402" />
+<p align="center" style="display: flex; justify-content: space-evenly;">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact"
+        alt="pikapool2402"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en"
+        alt="pikapool2402"
+    />
 </p>
+
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pikapool2402&" alt="pikapool2402" />
+    <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pikapool2402&"
+        alt="pikapool2402"
+    />
 </p>
