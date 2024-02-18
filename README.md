@@ -187,6 +187,8 @@
     </a>
 </p>
 
+<br>
+
 <p align="center">
     <a href="https://git.io/streak-stats" style="float: left"
         ><img
