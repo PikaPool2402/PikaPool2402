@@ -197,16 +197,8 @@
         style="display: grid; place-content: center"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en"
-        alt="pikapool2402"
-        style="display: grid; place-content: center"
-    />
-</p>
-
-<p align="center">
-    <img
-        align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=pikapool2402&"
         alt="pikapool2402"
+        style="display: grid; place-content: center"
     />
 </p>
