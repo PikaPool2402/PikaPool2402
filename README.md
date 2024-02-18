@@ -187,9 +187,22 @@
     </a>
 </p>
 
-<br>
+<br clear="both">
 
-<p align="center">
+<div align="center">
+    <img
+        src="https://streak-stats.demolab.com?user=PikaPool2402&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+        height="150"
+        alt="streak graph"
+    />
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=PikaPool2402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"
+        height="150"
+        alt="languages graph"
+    />
+</div>
+
+<!-- <p align="center">
     <a href="https://git.io/streak-stats" style="float: left"
         ><img
             src="https://github-readme-streak-stats.herokuapp.com?user=PikaPool2402&theme=highcontrast"
@@ -200,4 +213,4 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&theme=highcontrast&show_icons=true&locale=en&layout=compact"
         alt="pikapool2402"
     />
-</p>
+</p> -->
