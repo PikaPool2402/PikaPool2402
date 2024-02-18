@@ -194,10 +194,12 @@
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact"
         alt="pikapool2402"
+        style="display: grid; place-content: center"
     />
     <img
         src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en"
         alt="pikapool2402"
+        style="display: grid; place-content: center"
     />
 </p>
 
