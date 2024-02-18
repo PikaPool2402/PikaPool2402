@@ -6,6 +6,14 @@
     /></a>
 </h1>
 
+<img
+    align="right"
+    src="https://i.redd.it/bpxxqqvps4h91.gif"
+    alt="pikapool2402"
+    width="40%"
+    height="auto"
+/>
+
 <h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 -   🔭 I’m currently working on **React Projects.**
@@ -201,12 +209,12 @@
     style="display: flex; justify-content: space-evenly; align-items: center"
 >
     <img
-        src="https://streak-stats.demolab.com?user=PikaPool2402&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
+        src="https://streak-stats.demolab.com?user=PikaPool2402&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3"
         alt="pikapool2402"
         height="160"
     />
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=PikaPool2402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=PikaPool2402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2"
         alt="pikapool2402"
         height="160"
     />
