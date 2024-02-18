@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kush Gupta!</h1>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"
+        ><img
+            src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=FFFFFF&background=FF5AF600&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kush+Gupta!"
+            alt="Typing SVG"
+    /></a>
+</h1>
+
 <h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 -   🔭 I’m currently working on **React Projects.**
@@ -195,7 +202,7 @@
 >
     <img
         src="https://streak-stats.demolab.com?user=PikaPool2402&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-        height="150"
+        height="200"
         alt="pikapool2402"
     />
     <img
