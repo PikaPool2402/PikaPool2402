@@ -10,7 +10,7 @@
     align="right"
     src="https://i.redd.it/bpxxqqvps4h91.gif"
     alt="pikapool2402"
-    width="40%"
+    width="50%"
     height="auto"
 />
 
