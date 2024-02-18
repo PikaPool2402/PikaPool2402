@@ -202,12 +202,10 @@
 >
     <img
         src="https://streak-stats.demolab.com?user=PikaPool2402&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"
-        height="200"
         alt="pikapool2402"
     />
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=PikaPool2402&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2"
-        height="150"
         alt="pikapool2402"
     />
 </div>
