@@ -187,7 +187,10 @@
     </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: space-evenly;">
+<p
+    align="center"
+    style="display: flex; justify-content: space-evenly; align-items: center"
+>
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact"
         alt="pikapool2402"
