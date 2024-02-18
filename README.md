@@ -6,15 +6,17 @@
     /></a>
 </h1>
 
+<h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
+
+<br clear="both" />
+
 <img
     align="right"
     src="https://i.redd.it/bpxxqqvps4h91.gif"
     alt="pikapool2402"
-    width="50%"
+    width="40%"
     height="auto"
 />
-
-<h3 align="center">Unlocking Algorithms, Sculpting Web-Applications!</h3>
 
 -   🔭 I’m currently working on **React Projects.**
 
