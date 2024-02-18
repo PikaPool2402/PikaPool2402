@@ -193,13 +193,13 @@
 >
     <a
         href="https://git.io/streak-stats"
-        style="display: grid; place-content: center"
+        style="display: grid; place-content: center; margin: 2rem"
         ><img
             src="https://github-readme-streak-stats.herokuapp.com?user=PikaPool2402&theme=highcontrast"
             alt="GitHub Streak"
     /></a>
     <img
-        style="display: grid; place-content: center"
+        style="display: grid; place-content: center; margin: 2rem"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&theme=highcontrast&show_icons=true&locale=en&layout=compact"
         alt="pikapool2402"
     />
