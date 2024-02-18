@@ -167,14 +167,9 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact" alt="pikapool2402" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pikapool2402&show_icons=true&locale=en&layout=compact" alt="pikapool2402" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en" alt="pikapool2402" />
 </p>
-
-<div style="display: flex, justify-content: space-evenly">
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pikapool2402&show_icons=true&locale=en" alt="pikapool2402" />
-    </p>
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pikapool2402&" alt="pikapool2402" />
-    </p>
-<div>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pikapool2402&" alt="pikapool2402" />
+</p>
