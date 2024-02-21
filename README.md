@@ -174,6 +174,19 @@
             height="40"
         />
     </a>
+    <a
+        href="https://www.adobe.com/in/products/premiere.html"
+        target="_blank"
+        rel="noreferrer"
+        style="text-decoration: none"
+    >
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/640px-Adobe_Premiere_Pro_CC_icon.svg.png"
+            alt="premiere-pro"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="text-decoration: none">
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"
