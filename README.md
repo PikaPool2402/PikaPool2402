@@ -22,7 +22,7 @@
 
 -   👯 I’m looking to collaborate on **Web-Development Projects.**
 
--   🌱 I’m currently learning **React 18, Node.js & Express.js, Data Structures & Algorithms.**
+-   🌱 I’m currently learning **Node.js & Express.js, Data Structures & Algorithms.**
 
 -   💬 Ask me about **Web-Development, Data Structures & Algorithms.**
 
